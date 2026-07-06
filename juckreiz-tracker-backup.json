@@ -1,0 +1,350 @@
+{
+  "app": "juckreiz-tracker",
+  "version": 5,
+  "createdAt": "2026-07-06T20:33:30.882Z",
+  "state": {
+    "entries": [
+      {
+        "id": 1780814755416.6565,
+        "dog": "Rookie",
+        "date": "2026-06-07",
+        "time": "08:45",
+        "locations": [
+          "Bauch",
+          "Genital",
+          "Oberschenkel"
+        ],
+        "behaviors": [
+          "Beißen/Kauen"
+        ],
+        "duration": "5-15 Sekunden",
+        "intensity": "mittel",
+        "entryNote": "Balkon"
+      },
+      {
+        "id": 1780814777171.5852,
+        "dog": "Rookie",
+        "date": "2026-06-07",
+        "time": "08:00",
+        "locations": [
+          "Pfoten hinten",
+          "Kruppe",
+          "Genital",
+          "Oberschenkel"
+        ],
+        "behaviors": [],
+        "duration": "5-15 Sekunden",
+        "intensity": "mittel",
+        "entryNote": "Bad kurz nach aufstehen"
+      },
+      {
+        "id": 1780815746877.7122,
+        "dog": "Rookie",
+        "date": "2026-06-07",
+        "time": "09:02",
+        "locations": [
+          "Pfoten vorne",
+          "Genital"
+        ],
+        "behaviors": [
+          "Beißen/Kauen"
+        ],
+        "duration": "5-15 Sekunden",
+        "intensity": "mittel",
+        "entryNote": "Sofa"
+      },
+      {
+        "id": 1780818473718.6787,
+        "dog": "Rookie",
+        "date": "2026-06-07",
+        "time": "09:47",
+        "locations": [
+          "Pfoten vorne"
+        ],
+        "behaviors": [
+          "Beißen/Kauen"
+        ],
+        "duration": "2-5 Sekunden",
+        "intensity": "leicht",
+        "entryNote": "Balkon"
+      },
+      {
+        "id": 1780821938857.627,
+        "dog": "Rookie",
+        "date": "2026-06-07",
+        "time": "10:44",
+        "locations": [
+          "Flanke"
+        ],
+        "behaviors": [
+          "Beißen/Kauen"
+        ],
+        "duration": "5-15 Sekunden",
+        "intensity": "",
+        "entryNote": "habe nach einer Weile selbstbeschäftigung mit dem Spielzeug gesagt, er soll auf Sofa kommen und schlafen"
+      },
+      {
+        "id": 1780826895846.572,
+        "dog": "Rookie",
+        "date": "2026-06-07",
+        "time": "12:08",
+        "locations": [
+          "Genital",
+          "Kruppe",
+          "Flanke"
+        ],
+        "behaviors": [
+          "Beißen/Kauen"
+        ],
+        "duration": "",
+        "intensity": "",
+        "entryNote": "Beim hochsteigen auf das Sofa"
+      },
+      {
+        "id": 1780838784386.8774,
+        "dog": "Ivo",
+        "date": "2026-06-07",
+        "time": "14:26",
+        "locations": [
+          "Karpalgelenk"
+        ],
+        "behaviors": [
+          "Beißen/Kauen"
+        ],
+        "duration": "",
+        "intensity": "leicht",
+        "entryNote": ""
+      },
+      {
+        "id": 1780849321060.8735,
+        "dog": "Rookie",
+        "date": "2026-06-07",
+        "time": "18:21",
+        "locations": [
+          "Genital",
+          "Oberschenkel",
+          "Pfoten vorne"
+        ],
+        "behaviors": [
+          "Beißen/Kauen"
+        ],
+        "duration": "5-15 Sekunden",
+        "intensity": "leicht",
+        "entryNote": "Ist müde, soll schlafen. Angebunden.\nSage Schluss jetzt. Er schläft"
+      },
+      {
+        "id": 1780917795828.7043,
+        "dog": "Rookie",
+        "date": "2026-06-08",
+        "time": "09:46",
+        "locations": [
+          "Pfoten vorne",
+          "Kruppe",
+          "Schwanzwurzel"
+        ],
+        "behaviors": [
+          "Beißen/Kauen"
+        ],
+        "duration": "2-5 Sekunden",
+        "intensity": "leicht",
+        "entryNote": "Im bad"
+      },
+      {
+        "id": 1781000955783.1929,
+        "dog": "Rookie",
+        "date": "2026-06-09",
+        "time": "12:28",
+        "locations": [
+          "Bauch",
+          "Flanke",
+          "Genital"
+        ],
+        "behaviors": [
+          "Beißen/Kauen"
+        ],
+        "duration": "15-30 Sekunden",
+        "intensity": "stark",
+        "entryNote": "Nach der Pipi Runde bei Regen auf dem Sofa musste es abbrechen, weil er nur geschmatzt hat"
+      },
+      {
+        "id": 1782190627348.9783,
+        "dog": "Rookie",
+        "date": "2026-06-23",
+        "time": "06:56",
+        "locations": [
+          "Schwanzwurzel",
+          "Kruppe"
+        ],
+        "behaviors": [
+          "Beißen/Kauen"
+        ],
+        "duration": "2-5 Sekunden",
+        "intensity": "",
+        "entryNote": "Ab heute nur noch Anallergenic und skyr"
+      },
+      {
+        "id": 1782191102607.9072,
+        "dog": "Rookie",
+        "date": "2026-06-23",
+        "time": "07:04",
+        "locations": [
+          "Flanke",
+          "Rücken",
+          "Rute"
+        ],
+        "behaviors": [
+          "Beißen/Kauen"
+        ],
+        "duration": "2-5 Sekunden",
+        "intensity": "stark",
+        "entryNote": ""
+      },
+      {
+        "id": 1782191118929.9907,
+        "dog": "Rookie",
+        "date": "2026-06-23",
+        "time": "07:05",
+        "locations": [
+          "Rute"
+        ],
+        "behaviors": [
+          "Kratzen"
+        ],
+        "duration": "< 2 Sekunden",
+        "intensity": "mittel",
+        "entryNote": ""
+      },
+      {
+        "id": 1782193444194.823,
+        "dog": "Rookie",
+        "date": "2026-06-23",
+        "time": "07:43",
+        "locations": [
+          "Pfoten vorne",
+          "Pfoten hinten",
+          "Genital",
+          "Ohr"
+        ],
+        "behaviors": [],
+        "duration": "5-15 Sekunden",
+        "intensity": "leicht",
+        "entryNote": ""
+      },
+      {
+        "id": 1782277962595.052,
+        "dog": "Rookie",
+        "date": "2026-06-24",
+        "time": "07:12",
+        "locations": [
+          "After"
+        ],
+        "behaviors": [
+          "Lecken",
+          "Beißen/Kauen"
+        ],
+        "duration": "5-15 Sekunden",
+        "intensity": "stark",
+        "entryNote": ""
+      },
+      {
+        "id": 1782279835186.2637,
+        "dog": "Rookie",
+        "date": "2026-06-24",
+        "time": "07:43",
+        "locations": [
+          "Pfoten vorne"
+        ],
+        "behaviors": [],
+        "duration": "2-5 Sekunden",
+        "intensity": "leicht",
+        "entryNote": ""
+      },
+      {
+        "id": 1782289914234.9958,
+        "dog": "Rookie",
+        "date": "2026-06-24",
+        "time": "10:31",
+        "locations": [
+          "After",
+          "Genital"
+        ],
+        "behaviors": [
+          "Lecken",
+          "Beißen/Kauen"
+        ],
+        "duration": "5-15 Sekunden",
+        "intensity": "mittel",
+        "entryNote": ""
+      },
+      {
+        "id": 1782289936528.667,
+        "dog": "Rookie",
+        "date": "2026-06-24",
+        "time": "10:31",
+        "locations": [
+          "Ohr"
+        ],
+        "behaviors": [
+          "Kratzen"
+        ],
+        "duration": "5-15 Sekunden",
+        "intensity": "mittel",
+        "entryNote": ""
+      },
+      {
+        "id": 1782424874885.1865,
+        "dog": "Ivo",
+        "date": "2026-06-24",
+        "time": "00:00",
+        "locations": [
+          "Karpalgelenk"
+        ],
+        "behaviors": [
+          "Lecken",
+          "Beißen/Kauen"
+        ],
+        "duration": "",
+        "intensity": "",
+        "entryNote": "Nass entdeckt. Haare ab"
+      },
+      {
+        "id": 1783369495206.411,
+        "dog": "Ivo",
+        "date": "2026-07-06",
+        "time": "22:24",
+        "locations": [
+          "Karpalgelenk"
+        ],
+        "behaviors": [
+          "Beißen/Kauen"
+        ],
+        "duration": "",
+        "intensity": "",
+        "entryNote": "tagsüber bei Franzi zum ersten Mal. Beim Spaziergang um 19 Uhr sehr gasig. Muss zwischen 20 und 22 Uhr passiert sein. War trocken bei Entdeckung"
+      }
+    ],
+    "notes": {
+      "Rookie_2026-06-07": "Huhn, Magerquark ",
+      "Rookie_2026-06-08": "Huhn, hautsud rind",
+      "Ivo_2026-06-24": "War bei Franzi \nRecht Gasig beim Spaziergang um 19 Uhr Uhr. Muss zwischen 20 und 22 Uhr passiert sein. War trocken bei Entdeckung ",
+      "Ivo_2026-07-06": "Mal tagsüber bei Franzi zum ersten Mal. Beim Spaziergang sehr gasig. Muss zwischen 20 und 22 Uhr passiert sein. War trocken bei Entdeckung"
+    },
+    "locations": [
+      "Pfoten vorne",
+      "Pfoten hinten",
+      "Kruppe",
+      "Bauch",
+      "Genital",
+      "Flanke",
+      "Kopf",
+      "Ohr",
+      "Nase",
+      "Karpalgelenk",
+      "Oberschenkel",
+      "Schwanzwurzel",
+      "Rücken",
+      "Rute",
+      "After"
+    ]
+  }
+}
